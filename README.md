@@ -62,9 +62,6 @@ If you use these artifacts in your research, please cite the associated paper. T
 
 ## Contact and repository maintenance
 
-For questions about the artifacts, please open an issue in this repository:
-
-https://github.com/tasnia87/REFSQ26_artifacts/issues
 
 ## Availability and usage
 
