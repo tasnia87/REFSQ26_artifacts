@@ -1,0 +1,37 @@
+System,Approach,RequirementID,Attribute,N,Median,Q1,Q3
+Antivirus,CRAFT-AI,AV-C1,Novelty,66,3.0,3.0,4.0
+Antivirus,CRAFT-AI,AV-C1,Clarity,66,3.0,2.0,4.0
+Antivirus,CRAFT-AI,AV-C1,Usefulness,66,3.5,2.25,4.0
+Antivirus,CRAFT-AI,AV-C2,Novelty,66,4.0,4.0,5.0
+Antivirus,CRAFT-AI,AV-C2,Clarity,66,4.5,4.0,5.0
+Antivirus,CRAFT-AI,AV-C2,Usefulness,66,5.0,4.0,5.0
+Antivirus,CRAFT-AI,AV-C3,Novelty,66,4.0,3.0,4.0
+Antivirus,CRAFT-AI,AV-C3,Clarity,66,4.0,3.0,5.0
+Antivirus,CRAFT-AI,AV-C3,Usefulness,66,4.0,3.0,5.0
+Antivirus,Benchmark,AV-B1,Novelty,66,3.0,2.0,4.0
+Antivirus,Benchmark,AV-B1,Clarity,66,3.0,3.0,4.0
+Antivirus,Benchmark,AV-B1,Usefulness,66,5.0,4.0,5.0
+Web browser,CRAFT-AI,WB-C1,Novelty,66,4.0,3.0,4.0
+Web browser,CRAFT-AI,WB-C1,Clarity,66,4.0,3.0,4.0
+Web browser,CRAFT-AI,WB-C1,Usefulness,66,4.0,3.0,5.0
+Web browser,CRAFT-AI,WB-C2,Novelty,66,3.0,3.0,4.0
+Web browser,CRAFT-AI,WB-C2,Clarity,66,5.0,4.0,5.0
+Web browser,CRAFT-AI,WB-C2,Usefulness,66,5.0,4.0,5.0
+Web browser,CRAFT-AI,WB-C3,Novelty,66,4.0,3.0,4.0
+Web browser,CRAFT-AI,WB-C3,Clarity,66,5.0,4.0,5.0
+Web browser,CRAFT-AI,WB-C3,Usefulness,66,5.0,4.0,5.0
+Web browser,Benchmark,WB-B1,Novelty,66,3.0,2.0,4.0
+Web browser,Benchmark,WB-B1,Clarity,66,3.0,2.25,4.0
+Web browser,Benchmark,WB-B1,Usefulness,66,3.0,2.0,3.0
+File sharing,CRAFT-AI,FS-C1,Novelty,66,4.0,3.0,4.0
+File sharing,CRAFT-AI,FS-C1,Clarity,66,4.0,3.0,5.0
+File sharing,CRAFT-AI,FS-C1,Usefulness,66,4.0,3.25,5.0
+File sharing,CRAFT-AI,FS-C2,Novelty,66,4.0,3.0,5.0
+File sharing,CRAFT-AI,FS-C2,Clarity,66,4.0,3.0,4.0
+File sharing,CRAFT-AI,FS-C2,Usefulness,66,4.0,3.0,5.0
+File sharing,CRAFT-AI,FS-C3,Novelty,66,4.0,4.0,5.0
+File sharing,CRAFT-AI,FS-C3,Clarity,66,4.0,4.0,5.0
+File sharing,CRAFT-AI,FS-C3,Usefulness,66,5.0,4.0,5.0
+File sharing,Benchmark,FS-B1,Novelty,66,3.0,3.0,4.0
+File sharing,Benchmark,FS-B1,Clarity,66,4.0,3.0,4.0
+File sharing,Benchmark,FS-B1,Usefulness,66,4.0,3.0,5.0
