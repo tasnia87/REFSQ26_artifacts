@@ -1,4 +1,4 @@
-# REFSQ 2026 — Research Artifacts
+# REFSQ 2027 — Research Artifacts
 
 This repository contains research artifacts associated with a study of **creativity in software requirements engineering**, including requirements datasets, evaluation materials, experimental results, and code-related resources.
 
