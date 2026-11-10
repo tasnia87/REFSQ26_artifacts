@@ -13,7 +13,7 @@ REFSQ26_artifacts/
 ├── results/
 ├── Creativity_Framework_Evaluation_SecondStudyDataset_ForAnalysis.xlsx
 ├── Google Form link for the survey conducted_.pdf
-├── RequirementsData_Calculate_Myself_Benchmark_Correct_REFSQ_CreaRE_Merged.xlsx
+├── CRAFT-AI_Requirements_Evaluation_Data_ForAnalysis.xlsx
 └── README.md
 ```
 
