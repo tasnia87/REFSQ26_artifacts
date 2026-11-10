@@ -22,7 +22,7 @@ REFSQ26_artifacts/
 | `code/ICSR_2019_replicated-main/` | Code resources labeled as a replication of ICSR 2019 work. Consult the files in this directory for implementation details. |
 | `results/` | Research results and related output files. |
 | `Creativity_Framework_Evaluation_SecondStudyDataset_ForAnalysis.xlsx` | Spreadsheet identified as the second-study evaluation dataset for analysis. |
-| `RequirementsData_Calculate_Myself_Benchmark_Correct_REFSQ_CreaRE_Merged.xlsx` | Spreadsheet containing requirements-related data, with benchmark and merged-data references in its filename. |
+| `CRAFT-AI_Requirements_Evaluation_Data_ForAnalysis.xlsx` | Spreadsheet containing requirements-related data, with benchmark and merged-data references in its filename. |
 | `Google Form link for the survey conducted_.pdf` | PDF containing survey-related information. |
 
 ## Research context
