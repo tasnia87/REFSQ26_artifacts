@@ -9,7 +9,7 @@ The artifacts are shared to support transparency, inspection, and further resear
 ```text
 REFSQ26_artifacts/
 ├── code/
-│   └── ICSR_2019_replicated-main/
+│   └── CraftAI code/
 ├── results/
 ├── Creativity_Framework_Evaluation_SecondStudyDataset_ForAnalysis.xlsx
 ├── Google Form link for the survey conducted_.pdf
@@ -19,7 +19,7 @@ REFSQ26_artifacts/
 
 | Path | Description |
 | --- | --- |
-| `code/ICSR_2019_replicated-main/` | Code resources labeled as a replication of ICSR 2019 work. Consult the files in this directory for implementation details. |
+| `code/CraftAI code/` | Consult the files in this directory for implementation details. |
 | `results/` | Research results and related output files. |
 | `Creativity_Framework_Evaluation_SecondStudyDataset_ForAnalysis.xlsx` | Spreadsheet identified as the second-study evaluation dataset for analysis. |
 | `CRAFT-AI_Requirements_Evaluation_Data_ForAnalysis.xlsx` | Spreadsheet containing requirements-related data, with benchmark and merged-data references in its filename. |
@@ -36,8 +36,7 @@ The study's broader research context includes automated requirement generation a
 Clone the repository:
 
 ```bash
-git clone https://github.com/tasnia87/REFSQ26_artifacts.git
-cd REFSQ26_artifacts
+
 ```
 
 The `.xlsx` datasets can be opened in Microsoft Excel or read using spreadsheet-compatible analysis software. The survey-related PDF can be opened in a PDF reader.
