@@ -60,6 +60,8 @@ The repository includes a `code/` directory. Before executing any scripts, revie
 If you use these artifacts in your research, please cite the associated paper. The full bibliographic citation will be added when available.
 
 ## Contact and repository maintenance
+## Survey form link:
+https://docs.google.com/forms/d/e/1FAIpQLSdIzSQQE7VYuP_X5j8k1WfFNiGqCGF-hNeHpPqsDLQTC_ji_Q/viewform?pli=1
 
 
 ## Availability and usage
