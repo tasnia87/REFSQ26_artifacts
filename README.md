@@ -12,7 +12,7 @@ REFSQ26_artifacts/
 │   └── CraftAI code/
 ├── results/
 ├── Creativity_Framework_Evaluation_SecondStudyDataset_ForAnalysis.xlsx
-├── Google Form link for the survey conducted_.pdf
+├── Survey form.docs
 ├── CRAFT-AI_Requirements_Evaluation_Data_ForAnalysis.xlsx
 └── README.md
 ```
@@ -23,7 +23,7 @@ REFSQ26_artifacts/
 | `results/` | Research results and related output files. |
 | `Creativity_Framework_Evaluation_SecondStudyDataset_ForAnalysis.xlsx` | Spreadsheet identified as the second-study evaluation dataset for analysis. |
 | `CRAFT-AI_Requirements_Evaluation_Data_ForAnalysis.xlsx` | Spreadsheet containing requirements-related data, with benchmark and merged-data references in its filename. |
-| `Google Form link for the survey conducted_.pdf` | PDF containing survey-related information. |
+| `Survey form.docs` | Text file containing survey-related information. |
 
 ## Research context
 
@@ -39,7 +39,7 @@ Clone the repository:
 
 ```
 
-The `.xlsx` datasets can be opened in Microsoft Excel or read using spreadsheet-compatible analysis software. The survey-related PDF can be opened in a PDF reader.
+The `.xlsx` datasets can be opened in Microsoft Excel or read using spreadsheet-compatible analysis software. The survey-related file can be opened in a PDF reader.
 
 ### Code and reproducibility
 
